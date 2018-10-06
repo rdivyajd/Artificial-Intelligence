@@ -17,6 +17,6 @@ Assignments for class @IUB - Fall 2017
  * Problem Description:
    * Instead of sliding a single tile from one cell into an empty cell, in this variant, either one, two, or three tiles  
    * may be slid left, right, up or down in a single move
-   * 
+ 
    * The goal is to find a short sequence of moves that restores the canonical configuration given an initial board 
    * configuration using A* search.
