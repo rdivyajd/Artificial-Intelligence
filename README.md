@@ -20,3 +20,7 @@ Assignments for class @IUB - Fall 2017
  
    * The goal is to find a short sequence of moves that restores the canonical configuration given an initial board 
    * configuration using A* search.
+
+## pichu-chess.py
+
+* Use the minimax algorithm with alpha-beta search and a suitable heuristic evaluation function to solve a given chess board configuration.
