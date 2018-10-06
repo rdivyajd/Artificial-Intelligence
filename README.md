@@ -24,3 +24,11 @@ Assignments for class @IUB - Fall 2017
 ## pichu-chess.py
 
 * Use the minimax algorithm with alpha-beta search and a suitable heuristic evaluation function to solve a given chess board configuration.
+
+## Parts of Speech Tagging - pos_solver.py
+
+* tag parts of speech for a given set of sentences using Viterbi, Variable Elimination and Simplified Models
+
+## Identify Letters in Images - ocr.py
+
+* Identify letters in an image using Viterbi, Variable Elimination and Simplified Models
