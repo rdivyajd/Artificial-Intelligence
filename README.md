@@ -32,3 +32,7 @@ Assignments for class @IUB - Fall 2017
 ## Identify Letters in Images - ocr.py
 
 * Identify letters in an image using Viterbi, Variable Elimination and Simplified Models
+
+## Identify Image Orientation - orient.py
+
+* Use Knn, AdaBoost, Neural Nets to identify the image orientation of the given set of images
